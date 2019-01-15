@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1547533409 source:f:\c_program\getmax_recur\main.cpp
+	<iostream>
+	<cstring>
+
